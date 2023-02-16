@@ -26,7 +26,7 @@
 <body style="background-color: #EAf6f6;">
   <table cellspacing="20">
     <tr>
-      <td><img src="C:\Users\user\Downloads\Web Development\HTML PERSONAL - SITE\images\download-modified.png" alt="salam profile pictures"></td>
+      <td><img src="https://github.com/Adele584/Abdulsalam-Lukmon/blob/main/images/download-modified.png?raw=" alt="salam profile pictures"></td>
       <td>
         <h1>Lukmon Abdusalam</h1>
         <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co/">The App Brewery</a>.</strong></em></p>
